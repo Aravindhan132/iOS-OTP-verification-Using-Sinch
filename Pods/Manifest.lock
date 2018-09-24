@@ -1,0 +1,16 @@
+PODS:
+  - SinchVerification-Swift (2.0.6)
+
+DEPENDENCIES:
+  - SinchVerification-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SinchVerification-Swift
+
+SPEC CHECKSUMS:
+  SinchVerification-Swift: 6188011479120d3e6ff13fa646189b10194e308e
+
+PODFILE CHECKSUM: 98f0e068536ef78e2c2bae713d249b28ab1fcd04
+
+COCOAPODS: 1.5.3
